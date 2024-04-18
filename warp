@@ -12,14 +12,7 @@
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp_5-10_40-100_10-20
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp_5-10_40-100_30-50
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp_5-10_40-100_300-500
-
-warp://auto#Warp 1 non-IR&&detour=warp://auto#Warp 2 IR
-warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#Warp 3 non-IR&&detour=warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#Warp 4 IR
-warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp 5
-warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#warp 6
-warp://auto?ifp=10-20&ifps=40-100&ifpd=300-500#Warp 7
-
-
-#warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp 8
-#warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp 9
-#warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp 10
+warp://auto#@GreenYping
+warp://auto#Warp-IN-Warp&&detour=warp://auto#Warp-IR
+warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp&&detour=warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IR
+warp://162.159.192.82:2371?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp&&detour=warp://188.114.99.61:988?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IR
