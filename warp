@@ -13,6 +13,6 @@
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp_5-10_40-100_30-50
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp_5-10_40-100_300-500
 warp://auto#@GreenYping
-warp://auto#Warp-IN-Warp&&detour=warp://auto#Warp-IR
-warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp&&detour=warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IR
-warp://162.159.192.82:2371?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp&&detour=warp://188.114.99.61:988?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IR
+warp://auto#Warp-IN-Warp-1&&detour=warp://auto#Warp-IR-2
+warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp-3&&detour=warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IR-4
+warp://162.159.192.82:2371?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp-5&&detour=warp://188.114.99.61:988?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IR-6
