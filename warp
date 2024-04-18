@@ -20,6 +20,6 @@ warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#warp 6
 warp://auto?ifp=10-20&ifps=40-100&ifpd=300-500#Warp 7
 
 
-warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp 8
-warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp 9
-warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp 10
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp 8
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp 9
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp 10
